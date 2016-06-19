@@ -4,7 +4,6 @@
 }
 
 .calendar {
-    min-width: 304px;
     font-family: Helvetica, arial;
     border: 1px solid #DDDDDD;
     border-radius: 3px;
@@ -108,7 +107,6 @@
 
 .left.text-muted {
     float: left;
-    margin-left: 9px;
     color: #767676;
 }
 .left.text-muted a {
